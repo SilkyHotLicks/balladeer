@@ -1,2 +1,2 @@
 # shl-mgr
-SilkyHotLicks Music Web Presence Manager.
+SilkyHotLicks Music Web Application Manager.
