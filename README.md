@@ -1,2 +1,2 @@
-# shl-mgr
-SilkyHotLicks Music Web Application Manager.
+# balladeer
+SilkyHotLicks Music Balladeer Application Manager.
